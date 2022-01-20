@@ -58,5 +58,11 @@
             "@test:unit",
             "@test:infection"
         ]
+    },
+    "repositories": {
+        "tkcreateit/graphql-upload": {
+            "type": "vcs",
+            "url": "https://github.com/tkcreateit/graphql-upload"
+        }
     }
 }
