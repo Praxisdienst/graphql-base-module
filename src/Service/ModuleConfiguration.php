@@ -41,6 +41,9 @@ class ModuleConfiguration
         '3hrs'  => '+3 hours',
         '8hrs'  => '+8 hours',
         '24hrs' => '+24 hours',
+        '1wk' => '+1 week',
+        '1mo' => '+1 month',
+        '1yr' => '+1 year',
     ];
 
     public function __construct(

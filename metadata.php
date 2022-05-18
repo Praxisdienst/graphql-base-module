@@ -51,7 +51,7 @@ $aModule = [
             'group' => 'graphql_base',
             'name'  => 'sJsonWebTokenLifetime',
             'type'        => 'select',
-            'constraints' => '15min|1hrs|3hrs|8hrs|24hrs',
+            'constraints' => '15min|1hrs|3hrs|8hrs|24hrs|1wk|1mo|1yr',
             'value' => '8hrs'
         ],
         [
